@@ -2,7 +2,13 @@
 
 This public template describes a configurable team of four agents: **Lead**, **Skeptic**, **Researcher**, and **Trader**. It uses generic role specifications rather than personal chat prompts. Configuration fields are placeholders, and any illustrative examples are fictional. No actual portfolio, brokerage provider, owner location, personal investment thesis, routine schedule, or trading history is included.
 
-> News-based signal, not financial advice. The account owner remains responsible for account access, configuration, and trading decisions.
+> **Disclaimer.** This template is for educational and informational purposes only. It is not financial, investment, legal, or tax advice, and it does not recommend any security, strategy, or trade. The author is not a licensed financial advisor or broker-dealer.
+>
+> Trading involves substantial risk, including the loss of some or all of your money. Automated and AI-driven trading can fail in unexpected ways, including through software errors, bad data, or incorrect model output. Nothing here guarantees or implies any performance.
+>
+> You are solely responsible for how you configure, deploy, and use this template, for every trade placed, and for following your broker's terms of service and all applicable laws and regulations. Test with paper trading before risking real money, and consult a licensed professional before making investment decisions.
+>
+> This template is provided "as is," without warranty of any kind. To the fullest extent permitted by law, the author is not liable for any losses or damages arising from its use. See [LICENSE](LICENSE).
 
 ## Contents
 
