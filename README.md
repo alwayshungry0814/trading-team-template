@@ -1,4 +1,4 @@
-# Four-Agent Trading Team: General Template
+# Four-Agent Trading Team with Grok Bot: General Template
 
 This public template describes a configurable team of four agents: **Lead**, **Skeptic**, **Researcher**, and **Trader**. It uses generic role specifications rather than personal chat prompts. Configuration fields are placeholders, and any illustrative examples are fictional. No actual portfolio, brokerage provider, owner location, personal investment thesis, routine schedule, or trading history is included.
 
